@@ -14,3 +14,4 @@ The project is to build an application program to reduce the manual work for man
 - 1. id
 - 2. name
 - 3. points
+- 
